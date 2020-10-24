@@ -1,0 +1,89 @@
+[{
+  "_id": {
+    "$oid": "5f938587e79a2b202f283d84"
+  },
+  "title": "Berita1",
+  "name": "JOKO",
+  "rating": 4,
+  "comment": 5,
+  "tag": 3,
+  "tagName": "one",
+  "date": "2014-01-02"
+},{
+  "_id": {
+    "$oid": "5f938587e79a2b202f283d85"
+  },
+  "title": "Berita1",
+  "name": "JOKO",
+  "rating": 3,
+  "comment": 3,
+  "tag": 3,
+  "tagName": "one",
+  "date": "2014-01-01"
+},{
+  "_id": {
+    "$oid": "5f938587e79a2b202f283d86"
+  },
+  "title": "Berita2",
+  "name": "JONO",
+  "rating": 7,
+  "comment": 2,
+  "tag": 2,
+  "tagName": "two",
+  "date": "2014-01-21"
+},{
+  "_id": {
+    "$oid": "5f938587e79a2b202f283d87"
+  },
+  "title": "Berita2",
+  "name": "JONO",
+  "rating": 7,
+  "comment": 2,
+  "tag": 2,
+  "tagName": "two",
+  "date": "2014-01-19"
+},{
+  "_id": {
+    "$oid": "5f938587e79a2b202f283d88"
+  },
+  "title": "Berita2",
+  "name": "JONO",
+  "rating": 7,
+  "comment": 2,
+  "tag": 2,
+  "tagName": "two",
+  "date": "2014-01-19"
+},{
+  "_id": {
+    "$oid": "5f938587e79a2b202f283d89"
+  },
+  "title": "Berita3",
+  "name": "JONO",
+  "rating": 7,
+  "comment": 2,
+  "tag": 2,
+  "tagName": "two",
+  "date": "2014-01-20"
+},{
+  "_id": {
+    "$oid": "5f938587e79a2b202f283d8a"
+  },
+  "title": "Berita3",
+  "name": "JONO",
+  "rating": 7,
+  "comment": 2,
+  "tag": 2,
+  "tagName": "two",
+  "date": "2014-01-25"
+},{
+  "_id": {
+    "$oid": "5f938587e79a2b202f283d8b"
+  },
+  "title": "Berita3",
+  "name": "JONO",
+  "rating": 7,
+  "comment": 2,
+  "tag": 2,
+  "tagName": "two",
+  "date": "2014-01-10"
+}]
